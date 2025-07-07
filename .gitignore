@@ -1,2 +1,5 @@
 /*.json
 /*.md
+
+!README.md
+!README.jp.md
