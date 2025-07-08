@@ -3,6 +3,8 @@
 **Language / 言語**: [English](README.md) | [日本語](README.jp.md)
 
 A modern, performance-optimized Neovim configuration built on LazyVim with support for multiple programming languages and cross-platform compatibility.
+![image](https://github.com/user-attachments/assets/de8ba866-66c6-4e79-96e3-b38f6c195e58)
+![image](https://github.com/user-attachments/assets/2e188ed0-2c7d-46f1-a9b0-546b165497d8)
 
 ## ✨ Features
 
