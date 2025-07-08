@@ -4,6 +4,9 @@
 
 LazyVimをベースにした、使いやすくて高性能なNeovim設定です！色んなプログラミング言語に対応していて、どのOSでも動きます。
 
+![image](https://github.com/user-attachments/assets/de8ba866-66c6-4e79-96e3-b38f6c195e58)
+![image](https://github.com/user-attachments/assets/2e188ed0-2c7d-46f1-a9b0-546b165497d8)
+
 ## ✨ このツールの良いところ
 
 - **🚀 それなりにめっちゃ速い**: LazyVimベースで必要な時だけプラグインを読み込むので、起動が早いです WSL上でも0.5ms以内は出ると思います
